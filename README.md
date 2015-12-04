@@ -1,0 +1,2 @@
+# KCCMemorizingTrainer
+高校地理のケッペンの気候区分を覚えるためのiOSアプリケーションです。
