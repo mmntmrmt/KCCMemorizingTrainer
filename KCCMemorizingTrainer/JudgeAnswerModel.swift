@@ -15,7 +15,7 @@ class JudgeAnswer: UIViewController {
     }
     
     func judgeAnswer (answer :String) -> Bool {
-        println(answer)
+        print(answer)
         if (answer == thisAnswer) {
             return true
         }else{

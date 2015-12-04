@@ -10,24 +10,25 @@ import Foundation
 import RealmSwift
 
 class LoadDataModel: NSObject {
-    let realm = Realm()
+    let realm = try! Realm()
         var q :[QuestionsModel] = []
     func setQuestion(id:Int, answer:String) {
-        var qs = QuestionsModel()
+        let qs = QuestionsModel()
     
         q.append(qs)
         q[id-1].id = id
         q[id-1].imageData = "image" + String(id) + ".jpg"
         q[id-1].answer = answer
-        realm.write{
-            realm.add(q[id-1], update: true)
+        try! realm.write{
+            self.realm.add(self.q[id-1], update: true)
         }
     }
     
     func load() {
-        realm.write {
-            realm.deleteAll()
+        try! realm.write {
+            self.realm.deleteAll()
         }
+        //仮想大陸の問題
         setQuestion(1, answer:"Af")
         setQuestion(2, answer:"Aw")
         setQuestion(3, answer:"BS")
@@ -40,6 +41,20 @@ class LoadDataModel: NSObject {
         setQuestion(10, answer:"Dw")
         setQuestion(11, answer:"EF")
         setQuestion(12, answer:"ET")
+        //ハイサーグラフと雨温図の問題
+        setQuestion(13, answer:"Af")
+        setQuestion(14, answer:"Aw")
+        setQuestion(15, answer:"BS")
+        setQuestion(16, answer:"BW")
+        setQuestion(17, answer:"Cfa")
+        setQuestion(18, answer:"Cfb")
+        setQuestion(19, answer:"Cs")
+        setQuestion(20, answer:"Cw")
+        setQuestion(21, answer:"Df")
+        setQuestion(22, answer:"Dw")
+        setQuestion(23, answer:"EF")
+        setQuestion(24, answer:"ET")
+
     }
     
     func randomlySelect() {

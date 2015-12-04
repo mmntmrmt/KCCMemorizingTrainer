@@ -22,21 +22,22 @@ class QuestionViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         LoadDataModel().load()
-        let realm = Realm()
+        let realm = try! Realm()
         for q1 in realm.objects(QuestionsModel) {
             questions.append(q1)
-            println("\(q1.answer)")
-            println("\(q1.id)")
-            println("\(q1.imageData)")
+            print("\(q1.answer)")
+            print("\(q1.id)")
+            print("\(q1.imageData)")
         }
         for q in questions {
-            println(q.id)
-            println(q.imageData)
+            print(q.id)
+            print(q.imageData)
         }
-        questions.shuffle(questions.count-1)
+        questions.shuffle(100)
+        //questions.shuffle(questions.count-1)
         for q in questions {
-            println(q.id)
-            println(q.imageData)
+            print(q.id)
+            print(q.imageData)
         }
         QuestionUIImageView.image = UIImage(named: questions[count].imageData)
         judge.setAnswer(questions[count].answer)
@@ -118,7 +119,7 @@ class QuestionViewController: UIViewController {
         
         let myEndAction = UIAlertAction(title: "終了する", style: .Default) { action in
             print("End!!")
-            println(self.rw.rightOrWrong)
+            print(self.rw.rightOrWrong)
             self.count++
             self.transition()
         }
@@ -128,20 +129,20 @@ class QuestionViewController: UIViewController {
         if(rw.rightOrWrong[count]){
             myAlert = UIAlertController(title: "正解！", message: mes, preferredStyle: .Alert)
             myOkAction = UIAlertAction(title: "次の問題に進む", style: .Default) { action in
-                println(self.count)
+                print(self.count)
                 self.rw.rightOrWrong[self.count] = true
                 self.count++
                 self.setQuestionData()
-                println(self.rw.rightOrWrong)
+                print(self.rw.rightOrWrong)
             }
         }else{
             myAlert = UIAlertController(title: "残念!", message: mes, preferredStyle: .Alert)
             myOkAction = UIAlertAction(title: "次の問題に進む", style: .Default) { action in
-                println(self.count)
+                print(self.count)
                 self.rw.rightOrWrong[self.count] = false
                 self.count++
                 self.setQuestionData()
-                println(self.rw.rightOrWrong)
+                print(self.rw.rightOrWrong)
             }
 
         }
