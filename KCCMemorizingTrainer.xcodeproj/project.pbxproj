@@ -21,12 +21,23 @@
 		E525962B1C0D603E00E0ADE4 /* image11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E525961F1C0D603E00E0ADE4 /* image11.jpg */; };
 		E525962C1C0D603E00E0ADE4 /* image12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E52596201C0D603E00E0ADE4 /* image12.jpg */; };
 		E525962E1C0D66A500E0ADE4 /* TopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E525962D1C0D66A500E0ADE4 /* TopViewController.swift */; };
+		E54704AF1C0FF26A009A3970 /* image13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704A31C0FF26A009A3970 /* image13.jpg */; };
+		E54704B01C0FF26A009A3970 /* image14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704A41C0FF26A009A3970 /* image14.jpg */; };
+		E54704B11C0FF26A009A3970 /* image15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704A51C0FF26A009A3970 /* image15.jpg */; };
+		E54704B21C0FF26A009A3970 /* image16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704A61C0FF26A009A3970 /* image16.jpg */; };
+		E54704B31C0FF26A009A3970 /* image17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704A71C0FF26A009A3970 /* image17.jpg */; };
+		E54704B41C0FF26A009A3970 /* image18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704A81C0FF26A009A3970 /* image18.jpg */; };
+		E54704B51C0FF26A009A3970 /* image21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704A91C0FF26A009A3970 /* image21.jpg */; };
+		E54704B61C0FF26A009A3970 /* image22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704AA1C0FF26A009A3970 /* image22.jpg */; };
+		E54704B71C0FF26A009A3970 /* image23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704AB1C0FF26A009A3970 /* image23.jpg */; };
+		E54704B81C0FF26A009A3970 /* image24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704AC1C0FF26A009A3970 /* image24.jpg */; };
+		E54704B91C0FF26A009A3970 /* image19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704AD1C0FF26A009A3970 /* image19.jpg */; };
+		E54704BA1C0FF26A009A3970 /* image20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E54704AE1C0FF26A009A3970 /* image20.jpg */; };
 		E571AECC1BFAA8D2002184DA /* QuestionsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E571AECB1BFAA8D2002184DA /* QuestionsModel.swift */; };
 		E571AECE1BFAAF72002184DA /* sample1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E571AECD1BFAAF72002184DA /* sample1.jpg */; };
 		E571AED01BFAB120002184DA /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E571AECF1BFAB120002184DA /* QuestionViewController.swift */; };
 		E571AED21BFABEBF002184DA /* LoadDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E571AED11BFABEBF002184DA /* LoadDataModel.swift */; };
 		E57AA7591BF5D95B004F399F /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57AA7581BF5D95B004F399F /* ResultViewController.swift */; };
-		E57AA75B1BF5D99E004F399F /* AnswerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57AA75A1BF5D99E004F399F /* AnswerViewController.swift */; };
 		E59423B21BF482DA001396F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59423B11BF482DA001396F5 /* AppDelegate.swift */; };
 		E59423B71BF482DA001396F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E59423B51BF482DA001396F5 /* Main.storyboard */; };
 		E59423B91BF482DA001396F5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E59423B81BF482DA001396F5 /* Images.xcassets */; };
@@ -66,12 +77,23 @@
 		E525961F1C0D603E00E0ADE4 /* image11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image11.jpg; path = TestImage3/image11.jpg; sourceTree = SOURCE_ROOT; };
 		E52596201C0D603E00E0ADE4 /* image12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image12.jpg; path = TestImage3/image12.jpg; sourceTree = SOURCE_ROOT; };
 		E525962D1C0D66A500E0ADE4 /* TopViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopViewController.swift; sourceTree = "<group>"; };
+		E54704A31C0FF26A009A3970 /* image13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image13.jpg; path = TestImage3/image13.jpg; sourceTree = SOURCE_ROOT; };
+		E54704A41C0FF26A009A3970 /* image14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image14.jpg; path = TestImage3/image14.jpg; sourceTree = SOURCE_ROOT; };
+		E54704A51C0FF26A009A3970 /* image15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image15.jpg; path = TestImage3/image15.jpg; sourceTree = SOURCE_ROOT; };
+		E54704A61C0FF26A009A3970 /* image16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image16.jpg; path = TestImage3/image16.jpg; sourceTree = SOURCE_ROOT; };
+		E54704A71C0FF26A009A3970 /* image17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image17.jpg; path = TestImage3/image17.jpg; sourceTree = SOURCE_ROOT; };
+		E54704A81C0FF26A009A3970 /* image18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image18.jpg; path = TestImage3/image18.jpg; sourceTree = SOURCE_ROOT; };
+		E54704A91C0FF26A009A3970 /* image21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image21.jpg; path = TestImage3/image21.jpg; sourceTree = SOURCE_ROOT; };
+		E54704AA1C0FF26A009A3970 /* image22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image22.jpg; path = TestImage3/image22.jpg; sourceTree = SOURCE_ROOT; };
+		E54704AB1C0FF26A009A3970 /* image23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image23.jpg; path = TestImage3/image23.jpg; sourceTree = SOURCE_ROOT; };
+		E54704AC1C0FF26A009A3970 /* image24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image24.jpg; path = TestImage3/image24.jpg; sourceTree = SOURCE_ROOT; };
+		E54704AD1C0FF26A009A3970 /* image19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image19.jpg; path = TestImage3/image19.jpg; sourceTree = SOURCE_ROOT; };
+		E54704AE1C0FF26A009A3970 /* image20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image20.jpg; path = TestImage3/image20.jpg; sourceTree = SOURCE_ROOT; };
 		E571AECB1BFAA8D2002184DA /* QuestionsModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionsModel.swift; sourceTree = "<group>"; };
 		E571AECD1BFAAF72002184DA /* sample1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sample1.jpg; sourceTree = SOURCE_ROOT; };
 		E571AECF1BFAB120002184DA /* QuestionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		E571AED11BFABEBF002184DA /* LoadDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadDataModel.swift; sourceTree = "<group>"; };
 		E57AA7581BF5D95B004F399F /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
-		E57AA75A1BF5D99E004F399F /* AnswerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswerViewController.swift; sourceTree = "<group>"; };
 		E59423AC1BF482DA001396F5 /* KCCMemorizingTrainer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KCCMemorizingTrainer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E59423B01BF482DA001396F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E59423B11BF482DA001396F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -131,7 +153,6 @@
 		E50747C41BFCC0C7005E0B32 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
-				E57AA75A1BF5D99E004F399F /* AnswerViewController.swift */,
 				E571AECF1BFAB120002184DA /* QuestionViewController.swift */,
 				E57AA7581BF5D95B004F399F /* ResultViewController.swift */,
 				E525962D1C0D66A500E0ADE4 /* TopViewController.swift */,
@@ -227,6 +248,18 @@
 				E525961E1C0D603E00E0ADE4 /* image10.jpg */,
 				E525961F1C0D603E00E0ADE4 /* image11.jpg */,
 				E52596201C0D603E00E0ADE4 /* image12.jpg */,
+				E54704A31C0FF26A009A3970 /* image13.jpg */,
+				E54704A41C0FF26A009A3970 /* image14.jpg */,
+				E54704A51C0FF26A009A3970 /* image15.jpg */,
+				E54704A61C0FF26A009A3970 /* image16.jpg */,
+				E54704A71C0FF26A009A3970 /* image17.jpg */,
+				E54704A81C0FF26A009A3970 /* image18.jpg */,
+				E54704AD1C0FF26A009A3970 /* image19.jpg */,
+				E54704AE1C0FF26A009A3970 /* image20.jpg */,
+				E54704A91C0FF26A009A3970 /* image21.jpg */,
+				E54704AA1C0FF26A009A3970 /* image22.jpg */,
+				E54704AB1C0FF26A009A3970 /* image23.jpg */,
+				E54704AC1C0FF26A009A3970 /* image24.jpg */,
 			);
 			name = images;
 			sourceTree = "<group>";
@@ -282,7 +315,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 0640;
+				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = "Ryo Morimoto";
 				TargetAttributes = {
 					E59423AB1BF482DA001396F5 = {
@@ -320,21 +353,33 @@
 			buildActionMask = 2147483647;
 			files = (
 				E525962C1C0D603E00E0ADE4 /* image12.jpg in Resources */,
+				E54704B81C0FF26A009A3970 /* image24.jpg in Resources */,
 				E52596241C0D603E00E0ADE4 /* image4.jpg in Resources */,
 				E52596251C0D603E00E0ADE4 /* image5.jpg in Resources */,
 				E525962B1C0D603E00E0ADE4 /* image11.jpg in Resources */,
+				E54704B41C0FF26A009A3970 /* image18.jpg in Resources */,
 				E59423B71BF482DA001396F5 /* Main.storyboard in Resources */,
+				E54704B91C0FF26A009A3970 /* image19.jpg in Resources */,
 				E52596291C0D603E00E0ADE4 /* image9.jpg in Resources */,
 				E52596211C0D603E00E0ADE4 /* image1.jpg in Resources */,
+				E54704AF1C0FF26A009A3970 /* image13.jpg in Resources */,
+				E54704B01C0FF26A009A3970 /* image14.jpg in Resources */,
+				E54704B11C0FF26A009A3970 /* image15.jpg in Resources */,
 				E52596281C0D603E00E0ADE4 /* image8.jpg in Resources */,
 				E525962A1C0D603E00E0ADE4 /* image10.jpg in Resources */,
+				E54704B21C0FF26A009A3970 /* image16.jpg in Resources */,
 				E571AECE1BFAAF72002184DA /* sample1.jpg in Resources */,
 				E59423BC1BF482DA001396F5 /* LaunchScreen.xib in Resources */,
+				E54704B51C0FF26A009A3970 /* image21.jpg in Resources */,
+				E54704B61C0FF26A009A3970 /* image22.jpg in Resources */,
 				E52596261C0D603E00E0ADE4 /* image6.jpg in Resources */,
 				E52596221C0D603E00E0ADE4 /* image2.jpg in Resources */,
 				E52596271C0D603E00E0ADE4 /* image7.jpg in Resources */,
+				E54704BA1C0FF26A009A3970 /* image20.jpg in Resources */,
 				E52596231C0D603E00E0ADE4 /* image3.jpg in Resources */,
 				E59423B91BF482DA001396F5 /* Images.xcassets in Resources */,
+				E54704B71C0FF26A009A3970 /* image23.jpg in Resources */,
+				E54704B31C0FF26A009A3970 /* image17.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -446,7 +491,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5F7C4A01C01AFE70071AFB6 /* Extension.swift in Sources */,
-				E57AA75B1BF5D99E004F399F /* AnswerViewController.swift in Sources */,
 				E5F7C4931C0085070071AFB6 /* JudgeAnswerModel.swift in Sources */,
 				E571AED21BFABEBF002184DA /* LoadDataModel.swift in Sources */,
 				E525962E1C0D66A500E0ADE4 /* TopViewController.swift in Sources */,
@@ -516,7 +560,9 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -532,7 +578,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -561,6 +607,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -571,7 +618,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 2;
@@ -586,8 +633,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = KCCMemorizingTrainer/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.tsukuba.coins-p.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -599,8 +647,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = KCCMemorizingTrainer/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.tsukuba.coins-p.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -620,6 +669,7 @@
 				);
 				INFOPLIST_FILE = KCCMemorizingTrainerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.tsukuba.coins-p.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KCCMemorizingTrainer.app/KCCMemorizingTrainer";
 			};
@@ -636,6 +686,7 @@
 				);
 				INFOPLIST_FILE = KCCMemorizingTrainerTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ac.tsukuba.coins-p.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KCCMemorizingTrainer.app/KCCMemorizingTrainer";
 			};
